@@ -5,6 +5,5 @@ Patikada Css eğitiminde verilen google ana sayfa'daki eksiklikler düzeltildi.
 
 ---
 
-[Patika.Dev/ Tolga Çavga](https://app.patika.dev/tcavgaa)<br>
 [Patika.Dev](https://www.patika.dev)<br>
 [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/)
