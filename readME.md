@@ -5,6 +5,6 @@ Patikada Css eğitiminde verilen google ana sayfa'daki eksiklikler düzeltildi.
 
 ---
 
-patika adresim: https://app.patika.dev/tcavgaa
-
-Patika sitesinin adresi: https://app.patika.dev
+[Patika.Dev/ Tolga Çavga](https://app.patika.dev/tcavgaa)
+[Patika.Dev](https://www.patika.dev)
+[Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/)
